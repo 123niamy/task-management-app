@@ -26,7 +26,7 @@ CI/CD with GitHub Actions
 
  How to Run
 bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/123niamy/task-manager.git
 cd task-manager
 python main.py
  Run Tests
